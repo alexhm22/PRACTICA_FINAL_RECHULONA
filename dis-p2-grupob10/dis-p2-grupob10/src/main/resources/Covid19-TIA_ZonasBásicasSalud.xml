@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root SYSTEM "Covid19-TIA_ZonasBásicasSalud.dtd">
+<root>
+    <data>
+        <codigo_geometria>001</codigo_geometria>
+        <zona_basica_salud>Abrantes</zona_basica_salud>
+        <tasa_incidencia_acumulada_ultimos_14dias>3.25224404839339</tasa_incidencia_acumulada_ultimos_14dias>
+        <tasa_incidencia_acumulada_total>1014.70014309874</tasa_incidencia_acumulada_total>
+        <casos_confirmados_totales>312</casos_confirmados_totales>
+        <fecha_informe>2020/07/01 09:00:00</fecha_informe>
+    </data>
+    <data>
+        <codigo_geometria>002</codigo_geometria>
+        <zona_basica_salud>Acacias</zona_basica_salud>
+        <tasa_incidencia_acumulada_ultimos_14dias>5.14615067929189</tasa_incidencia_acumulada_ultimos_14dias>
+        <tasa_incidencia_acumulada_total>1219.63771099218</tasa_incidencia_acumulada_total>
+        <casos_confirmados_totales>237</casos_confirmados_totales>
+        <fecha_informe>2020/07/01 09:00:00</fecha_informe>
+    </data>
+    <data>
+        <codigo_geometria>003</codigo_geometria>
+        <zona_basica_salud>Adelfas</zona_basica_salud>
+        <tasa_incidencia_acumulada_ultimos_14dias>34.2841470104224</tasa_incidencia_acumulada_ultimos_14dias>
+        <tasa_incidencia_acumulada_total>1498.21722435546</tasa_incidencia_acumulada_total>
+        <casos_confirmados_totales>437</casos_confirmados_totales>
+        <casos_confirmados_ultimos_14dias>10</casos_confirmados_ultimos_14dias>
+        <fecha_informe>2020/07/01 09:00:00</fecha_informe>
+    </data>
+    <data>
+        <codigo_geometria>004</codigo_geometria>
+        <zona_basica_salud>Alameda</zona_basica_salud>
+        <tasa_incidencia_acumulada_ultimos_14dias>4.70057346996334</tasa_incidencia_acumulada_ultimos_14dias>
+        <tasa_incidencia_acumulada_total>846.1032245934</tasa_incidencia_acumulada_total>
+        <casos_confirmados_totales>180</casos_confirmados_totales>
+        <fecha_informe>2020/07/01 09:00:00</fecha_informe>
+    </data>
+    <data>
+        <codigo_geometria>284</codigo_geometria>
+        <zona_basica_salud>Virgen del Val</zona_basica_salud>
+        <tasa_incidencia_acumulada_ultimos_14dias>0</tasa_incidencia_acumulada_ultimos_14dias>
+        <tasa_incidencia_acumulada_total>0</tasa_incidencia_acumulada_total>
+        <fecha_informe>2020/02/26 07:00:00</fecha_informe>
+    </data>
+    <data>
+        <codigo_geometria>285</codigo_geometria>
+        <zona_basica_salud>Vista Alegre</zona_basica_salud>
+        <tasa_incidencia_acumulada_ultimos_14dias>0</tasa_incidencia_acumulada_ultimos_14dias>
+        <tasa_incidencia_acumulada_total>0</tasa_incidencia_acumulada_total>
+        <fecha_informe>2020/02/26 07:00:00</fecha_informe>
+    </data>
+    <data>
+        <codigo_geometria>286</codigo_geometria>
+        <zona_basica_salud>Zofío</zona_basica_salud>
+        <tasa_incidencia_acumulada_ultimos_14dias>0</tasa_incidencia_acumulada_ultimos_14dias>
+        <tasa_incidencia_acumulada_total>0</tasa_incidencia_acumulada_total>
+        <fecha_informe>2020/02/26 07:00:00</fecha_informe>
+    </data>
+</root>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root SYSTEM "Covid19-TIA_ZonasBásicasSalud_Mayores60.dtd">
+<root>
+    <data>
+        <codigo_geometria>001</codigo_geometria>
+        <zona_basica_salud>Abrantes</zona_basica_salud>
+        <tasa_incidencia_acumulada_P60mas_ultimos_14dias>182.15</tasa_incidencia_acumulada_P60mas_ultimos_14dias>
+        <casos_confirmados__P60mas_ultimos_14dias>13</casos_confirmados__P60mas_ultimos_14dias>
+        <fecha_informe>2022/11/29 10:47:00</fecha_informe>
+    </data>
+    <data>
+        <codigo_geometria>002</codigo_geometria>
+        <zona_basica_salud>Acacias</zona_basica_salud>
+        <tasa_incidencia_acumulada_P60mas_ultimos_14dias>173.2</tasa_incidencia_acumulada_P60mas_ultimos_14dias>
+        <casos_confirmados__P60mas_ultimos_14dias>11</casos_confirmados__P60mas_ultimos_14dias>
+        <fecha_informe>2022/11/29 10:47:00</fecha_informe>
+    </data>
+    <data>
+        <codigo_geometria>003</codigo_geometria>
+        <zona_basica_salud>Adelfas</zona_basica_salud>
+        <tasa_incidencia_acumulada_P60mas_ultimos_14dias>266.82</tasa_incidencia_acumulada_P60mas_ultimos_14dias>
+        <casos_confirmados__P60mas_ultimos_14dias>23</casos_confirmados__P60mas_ultimos_14dias>
+        <fecha_informe>2022/11/29 10:47:00</fecha_informe>
+    </data>
+    <data>
+        <codigo_geometria>004</codigo_geometria>
+        <zona_basica_salud>Alameda</zona_basica_salud>
+        <tasa_incidencia_acumulada_P60mas_ultimos_14dias>277.84</tasa_incidencia_acumulada_P60mas_ultimos_14dias>
+        <casos_confirmados__P60mas_ultimos_14dias>13</casos_confirmados__P60mas_ultimos_14dias>
+        <fecha_informe>2022/11/29 10:47:00</fecha_informe>
+    </data>
+    <data>
+        <codigo_geometria>005</codigo_geometria>
+        <zona_basica_salud>Alameda de Osuna</zona_basica_salud>
+        <tasa_incidencia_acumulada_P60mas_ultimos_14dias>395.94</tasa_incidencia_acumulada_P60mas_ultimos_14dias>
+        <casos_confirmados__P60mas_ultimos_14dias>30</casos_confirmados__P60mas_ultimos_14dias>
+        <fecha_informe>2022/11/29 10:47:00</fecha_informe>
+    </data>
+</root>

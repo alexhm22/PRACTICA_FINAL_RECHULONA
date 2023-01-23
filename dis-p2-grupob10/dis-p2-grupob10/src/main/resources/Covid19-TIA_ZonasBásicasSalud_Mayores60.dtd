@@ -1,0 +1,7 @@
+<!ELEMENT root (data)*>
+        <!ELEMENT data (codigo_geometria,zona_basica_salud,tasa_incidencia_acumulada_P60mas_ultimos_14dias?,casos_confirmados__P60mas_ultimos_14dias?,fecha_informe)>
+        <!ELEMENT codigo_geometria (#PCDATA)>
+        <!ELEMENT zona_basica_salud (#PCDATA)>
+        <!ELEMENT tasa_incidencia_acumulada_P60mas_ultimos_14dias (#PCDATA)>
+        <!ELEMENT casos_confirmados__P60mas_ultimos_14dias (#PCDATA)>
+        <!ELEMENT fecha_informe (#PCDATA)>
